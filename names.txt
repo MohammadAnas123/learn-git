@@ -1,9 +1,5 @@
 Anas
 Abdul
-<<<<<<< HEAD
-sufiyan
-Mrityunjai
 Arif
-=======
-Arzoo
->>>>>>> parent of 769ad78 (Update names.txt)
+Mrityunjai
+sufiyan
